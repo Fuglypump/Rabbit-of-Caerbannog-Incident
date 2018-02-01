@@ -1,0 +1,25 @@
+<ModMetaData>
+	<name>Rabbit of Caerbannog Incident</name>
+	<author>Fuglypump</author>
+	<targetVersion>0.18.1722</targetVersion>
+	<description>This mod adds the killer Rabbit of Caerbannog! Beware!
+	
+Load Order:
+- A Dog Said
+- A Dog Said Easy Patcher
+- Rabbits of Caerbannog (and other animal-adding mods)
+
+New Incidents:
+- Rabbit of Caerbannog: Spawns a killer rabbit on the edge of the map. (base chance = 3.0 with 20 day cooldown)
+- Rabbit of Caerbannog Pack: Spawns 2-6 killer rabbits on the edge of the map. (base chance = 1.5 with 40 day cooldown)
+
+Mod Interactions:
+- Wild Animal Sex: Rabbit packs will have an orgy right when they spawn and potentially become an invasive species which takes over the entire map.
+
+Mod Support: (optional)
+- Compatible with A Dog Said if using the mod A Dog Said Easy Patcher with the correct load order.
+
+Credits:
+- Coding: Fuglypump
+- Textures: Chicken Plucker</description>
+</ModMetaData>

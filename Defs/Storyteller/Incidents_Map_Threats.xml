@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<IncidentDef>
+		<defName>Killer_Rabbit_Single</defName>
+		<label>Rabbit of Caerbannog</label>
+		<category>ThreatSmall</category>
+    <targetTypes>
+		<li>MapPlayerHome</li>
+    </targetTypes>
+		<workerClass>KillerRabbits.IncidentWorker_KillerRabbitSingle</workerClass>
+		<baseChance>2.0</baseChance>
+		<minRefireDays>15</minRefireDays>
+	</IncidentDef>
+
+	<IncidentDef>
+		<defName>Killer_Rabbit_Pack</defName>
+		<label>Rabbit of Caerbannog Pack</label>
+		<category>ThreatBig</category>
+    <targetTypes>
+		<li>MapPlayerHome</li>
+    </targetTypes>
+		<workerClass>KillerRabbits.IncidentWorker_KillerRabbitPack</workerClass>
+		<baseChance>2.0</baseChance>
+		<minRefireDays>30</minRefireDays>
+	</IncidentDef>
+	
+	
+</Defs>
